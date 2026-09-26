@@ -6,6 +6,7 @@ PackageLocale: en-US
 Publisher: Jarvy
 PublisherUrl: https://github.com/Cliftonz/jarvy
 PublisherSupportUrl: https://github.com/Cliftonz/jarvy/issues
+PrivacyUrl: https://github.com/Cliftonz/jarvy/blob/v0.8.4/PRIVACY.md
 PackageName: Jarvy
 PackageUrl: https://github.com/Cliftonz/jarvy
 License: MIT OR Apache-2.0
